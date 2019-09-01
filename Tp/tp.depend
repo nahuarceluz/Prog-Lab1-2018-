@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525265100 source:c:\users\alumno\desktop\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	<conio.h>
+
+1525264655 source:c:\users\alumno\desktop\tp\persona.c
+
+1525265176 c:\users\alumno\desktop\tp\persona.h
+

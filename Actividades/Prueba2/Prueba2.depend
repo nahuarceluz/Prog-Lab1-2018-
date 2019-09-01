@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522385097 source:c:\users\info\desktop\prueba2\funciones.c
+
+1522385430 source:c:\users\info\desktop\prueba2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522385097 c:\users\info\desktop\prueba2\funciones.h
+
+1522385430 source:c:\users\info\desktop\nahu\carrera programacion - utn\prog1-lab1\actividades\prueba2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522385097 c:\users\info\desktop\nahu\carrera programacion - utn\prog1-lab1\actividades\prueba2\funciones.h
+

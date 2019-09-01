@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526481679 source:c:\users\alumno\desktop\estructuras y punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1526481843 source:c:\users\alumno\desktop\lab_1\hoy\estructuras y punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+

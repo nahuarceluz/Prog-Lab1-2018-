@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525876213 source:d:\arceluz_nahuel_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+
+1525877977 source:d:\arceluz_nahuel_1a\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1525874188 d:\arceluz_nahuel_1a\producto.h
+

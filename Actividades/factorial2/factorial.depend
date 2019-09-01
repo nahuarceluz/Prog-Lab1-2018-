@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522192106 source:d:\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522474723 source:c:\users\info\desktop\nahu\carrera programacion - utn\prog1-lab1\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
